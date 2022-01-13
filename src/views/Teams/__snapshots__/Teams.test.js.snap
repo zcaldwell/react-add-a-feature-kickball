@@ -27,35 +27,14 @@ exports[`should render a list of teams 1`] = `
       <tr>
         <td>
           <a
-            href="/teams/2"
+            href="/teams/11"
           >
             Bridge City Sneakers
           </a>
         </td>
         <td>
           <a
-            href="/teams/2"
-          >
-            <button
-              class="btn-view"
-              type="button"
-            >
-              View
-            </button>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-            href="/teams/7"
-          >
-            Lakeville Thuderfeet
-          </a>
-        </td>
-        <td>
-          <a
-            href="/teams/7"
+            href="/teams/11"
           >
             <button
               class="btn-view"
@@ -90,14 +69,14 @@ exports[`should render a list of teams 1`] = `
       <tr>
         <td>
           <a
-            href="/teams/1"
+            href="/teams/10"
           >
             Rip City Kickers
           </a>
         </td>
         <td>
           <a
-            href="/teams/1"
+            href="/teams/10"
           >
             <button
               class="btn-view"
