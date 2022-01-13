@@ -21,7 +21,7 @@ exports[`should render a team’s detail page 1`] = `
   </p>
   <p>
     <a
-      href="/teams/1/edit"
+      href="/teams/10/edit"
     >
       Edit Team
     </a>

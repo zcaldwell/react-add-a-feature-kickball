@@ -6,7 +6,7 @@ it('should render a team’s detail page', async () => {
   // MemoryRouter is needed because <Team> uses the <Link> component
   const { container } = render(
     <MemoryRouter>
-      <Team match={{ params: { id: 1 } }} />
+      <Team match={{ params: { id: 10 } }} />
     </MemoryRouter>
   );
   screen.getByLabelText(/loading/);
