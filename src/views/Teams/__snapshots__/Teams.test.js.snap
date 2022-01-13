@@ -48,6 +48,27 @@ exports[`should render a list of teams 1`] = `
       <tr>
         <td>
           <a
+            href="/teams/12"
+          >
+            Lakeville Thuderfeet
+          </a>
+        </td>
+        <td>
+          <a
+            href="/teams/12"
+          >
+            <button
+              class="btn-view"
+              type="button"
+            >
+              View
+            </button>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
             href="/teams/4"
           >
             Mt. Hoodies
